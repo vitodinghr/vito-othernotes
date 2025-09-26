@@ -2,7 +2,7 @@ import { type SiteDataProps } from "../types/configDataTypes";
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "VitoDing Notes",
+	name: "VITODING Notes",
 	// Your website's title and description (meta fields)
 	title: "Reading Notes Beyond Book Reviews",
 	description:
