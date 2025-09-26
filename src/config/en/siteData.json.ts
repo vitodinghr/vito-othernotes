@@ -2,11 +2,11 @@ import { type SiteDataProps } from "../types/configDataTypes";
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Blogsmith",
+	name: "VitoDing Notes",
 	// Your website's title and description (meta fields)
-	title: "Blogsmith - a beautiful starter blog template using Astro and Tailwind CSS",
+	title: "Reading Notes Beyond Book Reviews",
 	description:
-		"Get your new blog website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+		"Reading Notes Beyond Book Reviews - Dive into a world of insights, reflections, and knowledge as I share my reading journey through detailed notes and thoughtful analyses. Explore a curated collection of book summaries, thematic explorations, and personal takeaways that go beyond traditional reviews. Join me in uncovering the essence of each book and discovering new perspectives along the way.",
 	// Your information!
 	author: {
 		name: "Cosmic Themes",
