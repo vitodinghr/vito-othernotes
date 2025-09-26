@@ -45,7 +45,7 @@ export const dataTranslations = {
 export const textTranslations = {
 	en: {
 		hero_description:
-			"Get your blog running in a snap. Multiple pages and sections, i18n, animations, CMS - all ready to go.",
+			"Reading Notes beyond Book Review",
 		back_to_all_posts: "Back to all posts",
 		related_posts: "Related Posts",
 		share_this_post: "Share this post!",
