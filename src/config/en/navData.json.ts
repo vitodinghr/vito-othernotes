@@ -25,36 +25,36 @@ const navConfig: navItem[] = [
 				link: `/categories/${category}/`,
 			};
 		}),
-	},
-	{
-		text: "Pages",
-		dropdown: [
-			{
-				text: "Blog",
-				link: "/blog/",
-			},
-			{
-				text: "Categories",
-				link: "/categories/",
-			},
-			{
-				text: "Tags",
-				link: "/tags/",
-			},
-			{
-				text: "Elements",
-				link: "/elements/",
-			},
-			{
-				text: "Contact",
-				link: "/contact/",
-			},
-			{
-				text: "Privacy Policy",
-				link: "/privacy-policy/",
-			},
-		],
-	},
+	}
+	// {
+	// 	text: "Pages",
+	// 	dropdown: [
+	// 		{
+	// 			text: "Blog",
+	// 			link: "/blog/",
+	// 		},
+	// 		{
+	// 			text: "Categories",
+	// 			link: "/categories/",
+	// 		},
+	// 		{
+	// 			text: "Tags",
+	// 			link: "/tags/",
+	// 		},
+	// 		{
+	// 			text: "Elements",
+	// 			link: "/elements/",
+	// 		},
+	// 		{
+	// 			text: "Contact",
+	// 			link: "/contact/",
+	// 		},
+	// 		{
+	// 			text: "Privacy Policy",
+	// 			link: "/privacy-policy/",
+	// 		},
+	// 	],
+	// },
 ];
 
 export default navConfig;
