@@ -4,7 +4,7 @@ import { type SiteDataProps } from "../types/configDataTypes";
 const siteData: SiteDataProps = {
 	name: "VITODING.NOTES",
 	// Your website's title and description (meta fields)
-	title: "VITODING.NOTES",
+	title: "VITODING.NOTES - Seek Truth from Facts",
 	description:
 		"Reading Notes Beyond Book Reviews - Dive into a world of insights, reflections, and knowledge as I share my reading journey through detailed notes and thoughtful analyses. Explore a curated collection of book summaries, thematic explorations, and personal takeaways that go beyond traditional reviews. Join me in uncovering the essence of each book and discovering new perspectives along the way.",
 	// Your information!
